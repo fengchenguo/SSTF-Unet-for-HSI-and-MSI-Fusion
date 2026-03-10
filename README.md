@@ -14,7 +14,7 @@ Please note: The code of our SSTF-Unet has been open sourced at https://github.c
 
 Please cite our paper if you find the work useful, thanks!
 
-    @article{liu2023sstf,
+    @article{liu2024sstf,
       title={SSTF-Unet: Spatial–Spectral Transformer-Based U-Net for High-Resolution Hyperspectral Image Acquisition},
       author={Liu, Haibo and Feng, Chenguo and Dian, Renwei and Li, Shutao},
       journal={IEEE Transactions on Neural Networks and Learning Systems},
